@@ -37,7 +37,7 @@
 					"CyberpunkAlleywa",
 					"Win64",
 					"Debug",
-					"D:\\Work\\Unreal Projects\\CyberpunkAlleywa_Backup\\CyberpunkAlleywa.uproject",
+					"D:\\Work\\Unreal Projects\\CyberpunkAlleywa\\CyberpunkAlleywa.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -54,7 +54,7 @@
 					"CyberpunkAlleywa",
 					"Win64",
 					"Debug",
-					"D:\\Work\\Unreal Projects\\CyberpunkAlleywa_Backup\\CyberpunkAlleywa.uproject",
+					"D:\\Work\\Unreal Projects\\CyberpunkAlleywa\\CyberpunkAlleywa.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -74,7 +74,7 @@
 					"CyberpunkAlleywa",
 					"Win64",
 					"Debug",
-					"D:\\Work\\Unreal Projects\\CyberpunkAlleywa_Backup\\CyberpunkAlleywa.uproject",
+					"D:\\Work\\Unreal Projects\\CyberpunkAlleywa\\CyberpunkAlleywa.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -91,7 +91,7 @@
 					"CyberpunkAlleywa",
 					"Win64",
 					"DebugGame",
-					"D:\\Work\\Unreal Projects\\CyberpunkAlleywa_Backup\\CyberpunkAlleywa.uproject",
+					"D:\\Work\\Unreal Projects\\CyberpunkAlleywa\\CyberpunkAlleywa.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -108,7 +108,7 @@
 					"CyberpunkAlleywa",
 					"Win64",
 					"DebugGame",
-					"D:\\Work\\Unreal Projects\\CyberpunkAlleywa_Backup\\CyberpunkAlleywa.uproject",
+					"D:\\Work\\Unreal Projects\\CyberpunkAlleywa\\CyberpunkAlleywa.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -128,7 +128,7 @@
 					"CyberpunkAlleywa",
 					"Win64",
 					"DebugGame",
-					"D:\\Work\\Unreal Projects\\CyberpunkAlleywa_Backup\\CyberpunkAlleywa.uproject",
+					"D:\\Work\\Unreal Projects\\CyberpunkAlleywa\\CyberpunkAlleywa.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -145,7 +145,7 @@
 					"CyberpunkAlleywa",
 					"Win64",
 					"Development",
-					"D:\\Work\\Unreal Projects\\CyberpunkAlleywa_Backup\\CyberpunkAlleywa.uproject",
+					"D:\\Work\\Unreal Projects\\CyberpunkAlleywa\\CyberpunkAlleywa.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -162,7 +162,7 @@
 					"CyberpunkAlleywa",
 					"Win64",
 					"Development",
-					"D:\\Work\\Unreal Projects\\CyberpunkAlleywa_Backup\\CyberpunkAlleywa.uproject",
+					"D:\\Work\\Unreal Projects\\CyberpunkAlleywa\\CyberpunkAlleywa.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -182,7 +182,7 @@
 					"CyberpunkAlleywa",
 					"Win64",
 					"Development",
-					"D:\\Work\\Unreal Projects\\CyberpunkAlleywa_Backup\\CyberpunkAlleywa.uproject",
+					"D:\\Work\\Unreal Projects\\CyberpunkAlleywa\\CyberpunkAlleywa.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -199,7 +199,7 @@
 					"CyberpunkAlleywa",
 					"Win64",
 					"Test",
-					"D:\\Work\\Unreal Projects\\CyberpunkAlleywa_Backup\\CyberpunkAlleywa.uproject",
+					"D:\\Work\\Unreal Projects\\CyberpunkAlleywa\\CyberpunkAlleywa.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -216,7 +216,7 @@
 					"CyberpunkAlleywa",
 					"Win64",
 					"Test",
-					"D:\\Work\\Unreal Projects\\CyberpunkAlleywa_Backup\\CyberpunkAlleywa.uproject",
+					"D:\\Work\\Unreal Projects\\CyberpunkAlleywa\\CyberpunkAlleywa.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -236,7 +236,7 @@
 					"CyberpunkAlleywa",
 					"Win64",
 					"Test",
-					"D:\\Work\\Unreal Projects\\CyberpunkAlleywa_Backup\\CyberpunkAlleywa.uproject",
+					"D:\\Work\\Unreal Projects\\CyberpunkAlleywa\\CyberpunkAlleywa.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -253,7 +253,7 @@
 					"CyberpunkAlleywa",
 					"Win64",
 					"Shipping",
-					"D:\\Work\\Unreal Projects\\CyberpunkAlleywa_Backup\\CyberpunkAlleywa.uproject",
+					"D:\\Work\\Unreal Projects\\CyberpunkAlleywa\\CyberpunkAlleywa.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -270,7 +270,7 @@
 					"CyberpunkAlleywa",
 					"Win64",
 					"Shipping",
-					"D:\\Work\\Unreal Projects\\CyberpunkAlleywa_Backup\\CyberpunkAlleywa.uproject",
+					"D:\\Work\\Unreal Projects\\CyberpunkAlleywa\\CyberpunkAlleywa.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -290,7 +290,7 @@
 					"CyberpunkAlleywa",
 					"Win64",
 					"Shipping",
-					"D:\\Work\\Unreal Projects\\CyberpunkAlleywa_Backup\\CyberpunkAlleywa.uproject",
+					"D:\\Work\\Unreal Projects\\CyberpunkAlleywa\\CyberpunkAlleywa.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -307,7 +307,7 @@
 					"CyberpunkAlleywaEditor",
 					"Win64",
 					"Debug",
-					"D:\\Work\\Unreal Projects\\CyberpunkAlleywa_Backup\\CyberpunkAlleywa.uproject",
+					"D:\\Work\\Unreal Projects\\CyberpunkAlleywa\\CyberpunkAlleywa.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -324,7 +324,7 @@
 					"CyberpunkAlleywaEditor",
 					"Win64",
 					"Debug",
-					"D:\\Work\\Unreal Projects\\CyberpunkAlleywa_Backup\\CyberpunkAlleywa.uproject",
+					"D:\\Work\\Unreal Projects\\CyberpunkAlleywa\\CyberpunkAlleywa.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -344,7 +344,7 @@
 					"CyberpunkAlleywaEditor",
 					"Win64",
 					"Debug",
-					"D:\\Work\\Unreal Projects\\CyberpunkAlleywa_Backup\\CyberpunkAlleywa.uproject",
+					"D:\\Work\\Unreal Projects\\CyberpunkAlleywa\\CyberpunkAlleywa.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -361,7 +361,7 @@
 					"CyberpunkAlleywaEditor",
 					"Win64",
 					"DebugGame",
-					"D:\\Work\\Unreal Projects\\CyberpunkAlleywa_Backup\\CyberpunkAlleywa.uproject",
+					"D:\\Work\\Unreal Projects\\CyberpunkAlleywa\\CyberpunkAlleywa.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -378,7 +378,7 @@
 					"CyberpunkAlleywaEditor",
 					"Win64",
 					"DebugGame",
-					"D:\\Work\\Unreal Projects\\CyberpunkAlleywa_Backup\\CyberpunkAlleywa.uproject",
+					"D:\\Work\\Unreal Projects\\CyberpunkAlleywa\\CyberpunkAlleywa.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -398,7 +398,7 @@
 					"CyberpunkAlleywaEditor",
 					"Win64",
 					"DebugGame",
-					"D:\\Work\\Unreal Projects\\CyberpunkAlleywa_Backup\\CyberpunkAlleywa.uproject",
+					"D:\\Work\\Unreal Projects\\CyberpunkAlleywa\\CyberpunkAlleywa.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -415,7 +415,7 @@
 					"CyberpunkAlleywaEditor",
 					"Win64",
 					"Development",
-					"D:\\Work\\Unreal Projects\\CyberpunkAlleywa_Backup\\CyberpunkAlleywa.uproject",
+					"D:\\Work\\Unreal Projects\\CyberpunkAlleywa\\CyberpunkAlleywa.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -432,7 +432,7 @@
 					"CyberpunkAlleywaEditor",
 					"Win64",
 					"Development",
-					"D:\\Work\\Unreal Projects\\CyberpunkAlleywa_Backup\\CyberpunkAlleywa.uproject",
+					"D:\\Work\\Unreal Projects\\CyberpunkAlleywa\\CyberpunkAlleywa.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -452,7 +452,7 @@
 					"CyberpunkAlleywaEditor",
 					"Win64",
 					"Development",
-					"D:\\Work\\Unreal Projects\\CyberpunkAlleywa_Backup\\CyberpunkAlleywa.uproject",
+					"D:\\Work\\Unreal Projects\\CyberpunkAlleywa\\CyberpunkAlleywa.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -469,7 +469,7 @@
 			{
 				"name": "Launch CyberpunkAlleywa (Debug)",
 				"request": "launch",
-				"program": "D:\\Work\\Unreal Projects\\CyberpunkAlleywa_Backup\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
+				"program": "D:\\Work\\Unreal Projects\\CyberpunkAlleywa\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
 				"preLaunchTask": "CyberpunkAlleywa Win64 Debug Build",
 				"args": [
 				],
@@ -485,7 +485,7 @@
 			{
 				"name": "Launch CyberpunkAlleywa (DebugGame)",
 				"request": "launch",
-				"program": "D:\\Work\\Unreal Projects\\CyberpunkAlleywa_Backup\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
+				"program": "D:\\Work\\Unreal Projects\\CyberpunkAlleywa\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
 				"preLaunchTask": "CyberpunkAlleywa Win64 DebugGame Build",
 				"args": [
 				],
@@ -501,7 +501,7 @@
 			{
 				"name": "Launch CyberpunkAlleywa (Development)",
 				"request": "launch",
-				"program": "D:\\Work\\Unreal Projects\\CyberpunkAlleywa_Backup\\Binaries\\Win64\\UnrealGame.exe",
+				"program": "D:\\Work\\Unreal Projects\\CyberpunkAlleywa\\Binaries\\Win64\\UnrealGame.exe",
 				"preLaunchTask": "CyberpunkAlleywa Win64 Development Build",
 				"args": [
 				],
@@ -517,7 +517,7 @@
 			{
 				"name": "Launch CyberpunkAlleywa (Test)",
 				"request": "launch",
-				"program": "D:\\Work\\Unreal Projects\\CyberpunkAlleywa_Backup\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
+				"program": "D:\\Work\\Unreal Projects\\CyberpunkAlleywa\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
 				"preLaunchTask": "CyberpunkAlleywa Win64 Test Build",
 				"args": [
 				],
@@ -533,7 +533,7 @@
 			{
 				"name": "Launch CyberpunkAlleywa (Shipping)",
 				"request": "launch",
-				"program": "D:\\Work\\Unreal Projects\\CyberpunkAlleywa_Backup\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
+				"program": "D:\\Work\\Unreal Projects\\CyberpunkAlleywa\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
 				"preLaunchTask": "CyberpunkAlleywa Win64 Shipping Build",
 				"args": [
 				],
@@ -552,7 +552,7 @@
 				"program": "E:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-Debug.exe",
 				"preLaunchTask": "CyberpunkAlleywaEditor Win64 Debug Build",
 				"args": [
-					"D:\\Work\\Unreal Projects\\CyberpunkAlleywa_Backup\\CyberpunkAlleywa.uproject"
+					"D:\\Work\\Unreal Projects\\CyberpunkAlleywa\\CyberpunkAlleywa.uproject"
 				],
 				"cwd": "E:\\Program Files\\Epic Games\\UE_5.5",
 				"stopAtEntry": false,
@@ -569,7 +569,7 @@
 				"program": "E:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-DebugGame.exe",
 				"preLaunchTask": "CyberpunkAlleywaEditor Win64 DebugGame Build",
 				"args": [
-					"D:\\Work\\Unreal Projects\\CyberpunkAlleywa_Backup\\CyberpunkAlleywa.uproject"
+					"D:\\Work\\Unreal Projects\\CyberpunkAlleywa\\CyberpunkAlleywa.uproject"
 				],
 				"cwd": "E:\\Program Files\\Epic Games\\UE_5.5",
 				"stopAtEntry": false,
@@ -586,7 +586,7 @@
 				"program": "E:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Binaries\\Win64\\UnrealEditor.exe",
 				"preLaunchTask": "CyberpunkAlleywaEditor Win64 Development Build",
 				"args": [
-					"D:\\Work\\Unreal Projects\\CyberpunkAlleywa_Backup\\CyberpunkAlleywa.uproject"
+					"D:\\Work\\Unreal Projects\\CyberpunkAlleywa\\CyberpunkAlleywa.uproject"
 				],
 				"cwd": "E:\\Program Files\\Epic Games\\UE_5.5",
 				"stopAtEntry": false,
@@ -606,7 +606,7 @@
 				"args": [
 					"-projectfiles",
 					"-vscode",
-					"-project=D:\\Work\\Unreal Projects\\CyberpunkAlleywa_Backup\\CyberpunkAlleywa.uproject",
+					"-project=D:\\Work\\Unreal Projects\\CyberpunkAlleywa\\CyberpunkAlleywa.uproject",
 					"-game",
 					"-engine",
 					"-dotnet"
